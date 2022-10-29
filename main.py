@@ -1,17 +1,13 @@
 # Author: 0xYazuko, Lirox
-import base64
 from cgitb import text
 from logging import root
 from tkinter import *
-from tkinter import ttk
-from tkinter import messagebox
-from tkinter import filedialog
+from tkinter import ttk, filedialog, messagebox
 import string
 import hashlib
-import os, ntpath, sys
+import sys
 from threading import Thread
 from turtle import bgcolor, color
-import base64
 from attr import s
 
 class App:
