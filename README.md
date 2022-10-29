@@ -4,3 +4,13 @@
 
 ![image](https://user-images.githubusercontent.com/101893028/198288171-0b7f4b1a-0a1a-48b7-81ec-09d783874af0.png)
 
+# Fonctionnalités:
+
+- Hash:
+  
+  - MD5
+  - SHA1
+  - SHA224
+  - SHA256
+  - SHA384
+  - SHA512
